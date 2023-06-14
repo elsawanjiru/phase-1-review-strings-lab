@@ -9,9 +9,3 @@ const shortGreeting = 'Welcome, ' + firstInitial + '!';
 
 
 
-module.exports = {
-  currentUser,
-  welcomeMessage,
-  excitedWelcomeMessage,
-  shortGreeting
-};
